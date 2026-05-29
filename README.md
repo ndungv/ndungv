@@ -27,7 +27,8 @@ end DungNguyen;
 - 🎓 Studying **Computer Engineering** at **Concordia University**, Montréal
 - 🔬 Passionate about **FPGA design**, **digital logic**, and **embedded systems**
 - ⚙️ Love the intersection of hardware and software
-- 📍 Based in **Montréal, QC 🇨🇦**
+- 📍 Live in **Montréal, QC 🇨🇦**
+- 📍 From ** Hanoi Vietnam **
 
 ***
 
